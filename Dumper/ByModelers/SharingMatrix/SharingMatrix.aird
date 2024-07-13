@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="null http://www.dke.de/CAEX/300 http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis uid="_cmJEIEEmEe-PRdfVfaa8lw" selectedViews="_dDqGkEEmEe-PRdfVfaa8lw" version="15.0.0.202209061200">
+    <semanticResources>SharingMatrix.caex</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_dDqGkEEmEe-PRdfVfaa8lw">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_dDsi0EEmEe-PRdfVfaa8lw" name="CAEX 3.0 Instance Hierarchy Diagram" repPath="#_dDr7wEEmEe-PRdfVfaa8lw" changeId="9589ddea-ae7c-4734-91cd-1ba77effd4fa">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']"/>
+        <target xmi:type="InstanceHierarchy_._type" href="SharingMatrix.caex#//@instanceHierarchy.0"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_dDr7wEEmEe-PRdfVfaa8lw">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_dDtw8EEmEe-PRdfVfaa8lw" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_dDtw8UEmEe-PRdfVfaa8lw" type="Sirius" element="_dDr7wEEmEe-PRdfVfaa8lw" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_g7abQEEmEe-PRdfVfaa8lw" type="2002" element="_g7XX8EEmEe-PRdfVfaa8lw">
+          <children xmi:type="notation:Node" xmi:id="_g7abQ0EmEe-PRdfVfaa8lw" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_g7abREEmEe-PRdfVfaa8lw" type="7001">
+            <children xmi:type="notation:Node" xmi:id="_yLjGUEEmEe-PRdfVfaa8lw" type="3008" element="_yLgDAEEmEe-PRdfVfaa8lw">
+              <children xmi:type="notation:Node" xmi:id="_yLjtYEEmEe-PRdfVfaa8lw" type="5005"/>
+              <children xmi:type="notation:Node" xmi:id="_yLjtYUEmEe-PRdfVfaa8lw" type="7002">
+                <children xmi:type="notation:Node" xmi:id="_yLjtZUEmEe-PRdfVfaa8lw" type="3008" element="_yLgqEUEmEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_yLjtaEEmEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_yLjtaUEmEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_yLjtakEmEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_yLjta0EmEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_yLjtZkEmEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yLjtZ0EmEe-PRdfVfaa8lw" x="6" y="11"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_3uRvEEEmEe-PRdfVfaa8lw" type="3008" element="_3uJMMEEmEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_3uRvE0EmEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_3uRvFEEmEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_3uRvFUEmEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_3uRvFkEmEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_3uRvEUEmEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3uRvEkEmEe-PRdfVfaa8lw" x="8" y="71"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_8ZL_AEEmEe-PRdfVfaa8lw" type="3008" element="_8ZEDMEEmEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_8ZL_A0EmEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_8ZL_BEEmEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_8ZL_BUEmEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_8ZL_BkEmEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_8ZL_AUEmEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8ZL_AkEmEe-PRdfVfaa8lw" x="8" y="131"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_-arVoEEmEe-PRdfVfaa8lw" type="3008" element="_-ajZ0EEmEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_-arVo0EmEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_-arVpEEmEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_-arVpUEmEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_-arVpkEmEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_-arVoUEmEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-arVokEmEe-PRdfVfaa8lw" x="6" y="203"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_EmwdYEEnEe-PRdfVfaa8lw" type="3008" element="_EmohkEEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_EmwdY0EnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_EmwdZEEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_EmwdZUEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_EmwdZkEnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_EmwdYUEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EmwdYkEnEe-PRdfVfaa8lw" x="198" y="11"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_I4KBIEEnEe-PRdfVfaa8lw" type="3008" element="_I4CFUEEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_I4KBI0EnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_I4KBJEEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_I4KBJUEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_I4KBJkEnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_I4KBIUEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_I4KBIkEnEe-PRdfVfaa8lw" x="198" y="59"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_OFgPwEEnEe-PRdfVfaa8lw" type="3008" element="_OFYT8EEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_OFg20EEnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_OFg20UEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_OFg20kEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_OFg200EnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_OFgPwUEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OFgPwkEnEe-PRdfVfaa8lw" x="201" y="203"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_TiCw8EEnEe-PRdfVfaa8lw" type="3008" element="_Th6OEEEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_TiCw80EnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_TiCw9EEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_TiCw9UEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_TiCw9kEnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_TiCw8UEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TiCw8kEnEe-PRdfVfaa8lw" x="198" y="131"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_Z4wbYEEnEe-PRdfVfaa8lw" type="3008" element="_Z4ofkEEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_Z4wbY0EnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_Z4wbZEEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_Z4wbZUEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_Z4wbZkEnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_Z4wbYUEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Z4wbYkEnEe-PRdfVfaa8lw" x="354" y="131"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_e-u2sEEnEe-PRdfVfaa8lw" type="3008" element="_e-lswEEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_e-u2s0EnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_e-u2tEEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_e-u2tUEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_e-u2tkEnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_e-u2sUEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e-u2skEnEe-PRdfVfaa8lw" x="354" y="203"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_iu-1MEEnEe-PRdfVfaa8lw" type="3008" element="_iu1rQEEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_iu-1M0EnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_iu-1NEEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_iu-1NUEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_iu-1NkEnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_iu-1MUEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iu-1MkEnEe-PRdfVfaa8lw" x="400" y="59"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_mspkoEEnEe-PRdfVfaa8lw" type="3008" element="_msgasEEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_mspko0EnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_mspkpEEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_mspkpUEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_mspkpkEnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_mspkoUEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mspkokEnEe-PRdfVfaa8lw" x="445" y="11"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_rVy6AEEnEe-PRdfVfaa8lw" type="3008" element="_rVoh8EEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_rVzhEEEnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_rVzhEUEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_rVzhEkEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_rVzhE0EnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_rVy6AUEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rVy6AkEnEe-PRdfVfaa8lw" x="90" y="263"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_uCw2kEEnEe-PRdfVfaa8lw" type="3008" element="_uCmegEEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_uCw2k0EnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_uCw2lEEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_uCw2lUEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_uCw2lkEnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_uCw2kUEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uCw2kkEnEe-PRdfVfaa8lw" x="222" y="251"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_w41r0EEnEe-PRdfVfaa8lw" type="3008" element="_w4qFoEEnEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_w41r00EnEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_w41r1EEnEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_w41r1UEnEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_w41r1kEnEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_w41r0UEnEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w41r0kEnEe-PRdfVfaa8lw" x="414" y="263"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_yLjtYkEmEe-PRdfVfaa8lw"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_yLjtY0EmEe-PRdfVfaa8lw"/>
+                <styles xmi:type="notation:DrawerStyle" xmi:id="_yLjtZEEmEe-PRdfVfaa8lw"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_yLjGUUEmEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yLjGUkEmEe-PRdfVfaa8lw" width="683" height="377"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_g7abRUEmEe-PRdfVfaa8lw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_g7abRkEmEe-PRdfVfaa8lw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_g7abQUEmEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g7abQkEmEe-PRdfVfaa8lw" x="72" y="132"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_m48wsEEmEe-PRdfVfaa8lw" type="2002" element="_m44fQEEmEe-PRdfVfaa8lw">
+          <children xmi:type="notation:Node" xmi:id="_m48ws0EmEe-PRdfVfaa8lw" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_m48wtEEmEe-PRdfVfaa8lw" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_m48wtUEmEe-PRdfVfaa8lw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_m48wtkEmEe-PRdfVfaa8lw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_m48wsUEmEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m48wskEmEe-PRdfVfaa8lw" x="216" y="48"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_pj-zkEEmEe-PRdfVfaa8lw" type="2002" element="_pj57EEEmEe-PRdfVfaa8lw">
+          <children xmi:type="notation:Node" xmi:id="_pj_aoEEmEe-PRdfVfaa8lw" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_pj_aoUEmEe-PRdfVfaa8lw" type="7001">
+            <children xmi:type="notation:Node" xmi:id="_BZ3OIEEoEe-PRdfVfaa8lw" type="3008" element="_BZ1Y8EEoEe-PRdfVfaa8lw">
+              <children xmi:type="notation:Node" xmi:id="_BZ3OI0EoEe-PRdfVfaa8lw" type="5005"/>
+              <children xmi:type="notation:Node" xmi:id="_BZ31MEEoEe-PRdfVfaa8lw" type="7002">
+                <children xmi:type="notation:Node" xmi:id="_BZ31NEEoEe-PRdfVfaa8lw" type="3008" element="_BZ2AAkEoEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_BZ31N0EoEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_BZ31OEEoEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_BZ31OUEoEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_BZ31OkEoEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_BZ31NUEoEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BZ31NkEoEe-PRdfVfaa8lw" x="72" y="24"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_FpQmwEEoEe-PRdfVfaa8lw" type="3008" element="_FpGOsEEoEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_FpQmw0EoEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_FpQmxEEoEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_FpQmxUEoEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_FpQmxkEoEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_FpQmwUEoEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FpQmwkEoEe-PRdfVfaa8lw" x="71" y="71"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_LcABcEEoEe-PRdfVfaa8lw" type="3008" element="_Lb2QcEEoEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_LcABc0EoEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_LcABdEEoEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_LcABdUEoEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_LcABdkEoEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_LcABcUEoEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LcABckEoEe-PRdfVfaa8lw" x="42" y="155"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_NWyTIEEoEe-PRdfVfaa8lw" type="3008" element="_NWoiIEEoEe-PRdfVfaa8lw">
+                  <children xmi:type="notation:Node" xmi:id="_NWyTI0EoEe-PRdfVfaa8lw" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_NWyTJEEoEe-PRdfVfaa8lw" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_NWyTJUEoEe-PRdfVfaa8lw"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_NWyTJkEoEe-PRdfVfaa8lw"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_NWyTIUEoEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NWyTIkEoEe-PRdfVfaa8lw" x="162" y="155"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_BZ31MUEoEe-PRdfVfaa8lw"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_BZ31MkEoEe-PRdfVfaa8lw"/>
+                <styles xmi:type="notation:DrawerStyle" xmi:id="_BZ31M0EoEe-PRdfVfaa8lw"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_BZ3OIUEoEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BZ3OIkEoEe-PRdfVfaa8lw" width="287" height="234"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_pj_aokEmEe-PRdfVfaa8lw"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_pj_ao0EmEe-PRdfVfaa8lw"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_pj-zkUEmEe-PRdfVfaa8lw" fontName="Segoe UI" fontHeight="10" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pj-zkkEmEe-PRdfVfaa8lw" x="804" y="120"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_dDtw8kEmEe-PRdfVfaa8lw"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_dDuYAEEmEe-PRdfVfaa8lw" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_dDuYAUEmEe-PRdfVfaa8lw"/>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_g7XX8EEmEe-PRdfVfaa8lw" name="Pull Unit" childrenPresentation="VerticalStack">
+      <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+      <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_g7XX8UEmEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_yLgDAEEmEe-PRdfVfaa8lw">
+        <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+        <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_yLgDAUEmEe-PRdfVfaa8lw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@subContainerMappings[name='InternalElementsContainer']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@subContainerMappings[name='InternalElementsContainer']"/>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_yLgqEUEmEe-PRdfVfaa8lw" name="Dropbox Module" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.0"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.0"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_yLgqEkEmEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_3uJMMEEmEe-PRdfVfaa8lw" name="Axle Module 1st" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.1"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.1"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_3uJzQEEmEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_8ZEDMEEmEe-PRdfVfaa8lw" name="Front Fender Right" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.2"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.2"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_8ZEDMUEmEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_-ajZ0EEmEe-PRdfVfaa8lw" name="Aftertreatment Module" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.3"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.3"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_-ajZ0UEmEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_EmohkEEnEe-PRdfVfaa8lw" name="Charge Air Cooler Module" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.4"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.4"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_EmpIoEEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_I4CFUEEnEe-PRdfVfaa8lw" name="Front Bow Module" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.5"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.5"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_I4CFUUEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_OFYT8EEnEe-PRdfVfaa8lw" name="Rear Bow Module" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.6"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.6"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_OFYT8UEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_Th6OEEEnEe-PRdfVfaa8lw" name="Front Fender Left" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.7"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.7"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_Th61IEEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_Z4ofkEEnEe-PRdfVfaa8lw" name="Engine And Transmission" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.8"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.8"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_Z4ofkUEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_e-lswEEnEe-PRdfVfaa8lw" name="Water Cooler Module" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.9"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.9"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_e-lswUEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_iu1rQEEnEe-PRdfVfaa8lw" name="Hood Module" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.10"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.10"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_iu2SUEEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_msgasEEnEe-PRdfVfaa8lw" name="Working Hydraulic Module" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.11"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.11"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_msgasUEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_rVoh8EEnEe-PRdfVfaa8lw" name="Wheel 1st" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.12"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.12"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_rVoh8UEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_uCmegEEnEe-PRdfVfaa8lw" name="Hitch Module" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.13"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.13"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_uCmegUEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_w4qFoEEnEe-PRdfVfaa8lw" name="Heat Exchanger Module" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.14"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.0/@internalElement.14"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_w4qFoUEnEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_m44fQEEmEe-PRdfVfaa8lw" name="Dumper Body Unit" childrenPresentation="VerticalStack">
+      <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.1"/>
+      <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_m44fQUEmEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_pj57EEEmEe-PRdfVfaa8lw" name="Load Unit" childrenPresentation="VerticalStack">
+      <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2"/>
+      <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_pj57EUEmEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_BZ1Y8EEoEe-PRdfVfaa8lw">
+        <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2"/>
+        <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_BZ2AAEEoEe-PRdfVfaa8lw" showIcon="false" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@subContainerMappings[name='InternalElementsContainer']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@subContainerMappings[name='InternalElementsContainer']"/>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_BZ2AAkEoEe-PRdfVfaa8lw" name="Axle Module 3rd" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.0"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.0"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_BZ2AA0EoEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_FpGOsEEoEe-PRdfVfaa8lw" name="Axle Module 2nd" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.1"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.1"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_FpGOsUEoEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_Lb2QcEEoEe-PRdfVfaa8lw" name="Wheel 3rd" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.2"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.2"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_Lb2QcUEoEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_NWoiIEEoEe-PRdfVfaa8lw" name="Wheel 2nd" childrenPresentation="VerticalStack">
+          <target xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.3"/>
+          <semanticElements xmi:type="InternalElementType" href="SharingMatrix.caex#//@instanceHierarchy.0/@internalElement.2/@internalElement.3"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_NWoiIUEoEe-PRdfVfaa8lw" labelSize="10" iconPath="/caex.caex30.design/icons/InternalElement.png" borderSize="1" borderSizeComputationExpression="1" foregroundColor="255,255,255">
+            <labelFormat>bold</labelFormat>
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer/@containerMappings[name='InternalElement']"/>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_dDr7wUEmEe-PRdfVfaa8lw"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/caex.caex30.design/description/CAEX30.odesign#//@ownedViewpoints[name='CAEX30Viewpoint']/@ownedRepresentations[name='CAEX30InstanceHierarchyDiagram']/@defaultLayer"/>
+    <target xmi:type="InstanceHierarchy_._type" href="SharingMatrix.caex#//@instanceHierarchy.0"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
